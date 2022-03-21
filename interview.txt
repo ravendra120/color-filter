@@ -1,0 +1,60 @@
+css
+--------------------------------------------------------------------------------------------------------
+How does CSS actually work (under the hood of browser)?
+How is responsive design different from adaptive design?
+Can you explain the difference between coding a website to be responsive versus using a mobile-first strategy?
+
+What is Pseudo-elements ?
+What is CSS Box Model and what are its elements?
+How can the gap under the image be removed?
+
+What is meant by CSS frameworks?
+Explain the usage of "table-layout" property
+
+What is CSS flexbox?
+Write all the properties of the flexbox.
+How to align image vertically in a division that spans vertically on the whole webpage?
+
+
+
+javascript
+---------------------------------------------------------------------------------------------------------
+List out the different ways an HTML element can be accessed in a JavaScript code.
+What is the difference between window & document in JavaScript?
+What are the different data types present in javascript?
+What is the difference between null & undefined?
+What will be the output when the following code is executed? Explain.
+console.log(false == '0')
+console.log(false === '0')
+
+Differences between declaring variables using var, let and const.
+Explain Hoisting in javascript.
+What is a “closure” in JavaScript? Provide an example.
+What is an event bubbling in JavaScript?
+What is an Immediately Invoked Function in javascript?
+What is the difference between Local storage & Session storage?
+How to read a cookie using JavaScript?
+How to delete a cookie using JavaScript?
+What is the ‘Strict’ mode in JavaScript and how can it be enabled?
+What is the significance, and what are the benefits, of including 'use strict' at the beginning of a JavaScript source file?
+What is the difference between Attributes and Property?
+What is the significance of, and reason for, wrapping the entire content of a JavaScript source file in a function block?
+What are Exports & Imports?
+
+
+React
+----------------------------------------------------------------------------------------------------------
+What are the features of React?
+Differentiate between Real DOM and Virtual DOM.
+One-way data-binding
+ What is JSX?
+Why use React instead of other frameworks, like Angular?
+Why is there a need for using keys in Lists?
+What is a state in React?
+How do you pass props between components?
+What are the differences between state and props?
+ What is a higher-order component in React?
+ What are the differences between class and functional components?
+Explain the lifecycle methods of components.
+Inline Styling
+Explain the use of CSS modules in React.
